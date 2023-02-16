@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_5" data-name="Слой 5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 914 897.12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #a9aeb0;
+        stroke-miterlimit: 10;
+        stroke-width: 56px;
+      }
+
+      .cls-2 {
+        fill: #a9aeb0;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="430" y="120" width="53" height="86" rx="26.5" ry="26.5"/>
+  <circle class="cls-1" cx="456.5" cy="448.5" r="169.5"/>
+  <rect class="cls-2" x="430" y="691" width="53" height="86" rx="26.5" ry="26.5"/>
+  <rect class="cls-2" x="715.5" y="405.5" width="53" height="86" rx="26.5" ry="26.5" transform="translate(1190.5 -293.5) rotate(90)"/>
+  <rect class="cls-2" x="144.5" y="405.5" width="53" height="86" rx="26.5" ry="26.5" transform="translate(619.5 277.5) rotate(90)"/>
+  <rect class="cls-2" x="632.32" y="203.8" width="53" height="86" rx="26.5" ry="26.5" transform="translate(367.48 -393.57) rotate(45)"/>
+  <rect class="cls-2" x="228.56" y="607.56" width="53" height="86" rx="26.5" ry="26.5" transform="translate(534.72 10.19) rotate(45)"/>
+  <rect class="cls-2" x="228.56" y="203.8" width="53" height="86" rx="26.5" ry="26.5" transform="translate(-99.81 252.64) rotate(-45)"/>
+  <rect class="cls-2" x="632.32" y="607.56" width="53" height="86" rx="26.5" ry="26.5" transform="translate(-267.05 656.4) rotate(-45)"/>
+</svg>

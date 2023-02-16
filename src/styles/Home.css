@@ -1,0 +1,32 @@
+.home_background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: url("../images/nightCity.gif");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    z-index: -100;
+    overflow: hidden;
+}
+
+.home_container {
+    position: fixed;
+    right: 15vw;
+    display: inline-flex;
+    flex-direction: column;
+    padding: 1%;
+}
+
+.home_item {
+    font-family: "Eternal UI", serif;
+    font-size: 3rem;
+    color: #83085D;
+    padding-top: 10px;
+}
+
+.home-item-2, .home-item-3 {
+    font-size: 1.5rem;
+}

@@ -1,0 +1,42 @@
+.notfound_background {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: url("../images/Denied.gif") no-repeat;
+    background-size: 100vw;
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    z-index: 0;
+}
+
+.notfound_page {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.not_found {
+    background-color: #020202;
+    font-family: "Eternal UI", serif;
+    font-size: 5rem;
+    color: #a92228;
+    padding: 20vh;
+    z-index: 1;
+    border: 0.75vh solid #a92228;
+}
+
+.goback_button {
+    font-family: "Eternal UI", serif;
+    font-size: 5rem;
+    position: absolute;
+    left: 40vw;
+    top: 40vh;
+    margin: 0;
+    border: 0.75vh solid #a92228;
+    z-index: 2;
+    color: #a92228;
+    text-decoration: none;
+}
