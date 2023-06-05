@@ -1,0 +1,13 @@
+.gallery .header_container {
+    border-bottom: 1px solid #000000;
+}
+
+.gallery .header_item {
+    color: #000000;
+}
+
+.gallery .header_item:hover {
+    transform: scale(1.05);
+    background: #868686;
+    transition: transform 0.125s ease-in-out;
+}

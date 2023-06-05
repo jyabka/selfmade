@@ -28,3 +28,17 @@
     padding-top: 0px;
     top: 0vh;
 }
+
+.about_page .header_item {
+    color: white;
+}
+
+.about_page .header_container {
+    border-bottom: 1px solid #ffffff;
+}
+
+.about_page .header_item:hover {
+    transform: scale(1.05);
+    background: rgba(0, 0, 0, 0.58);
+    transition: transform 0.125s ease-in-out;
+}

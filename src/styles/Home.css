@@ -30,3 +30,19 @@
 .home-item-2, .home-item-3 {
     font-size: 1.5rem;
 }
+
+.home_page .header_item:hover {
+    transform: scale(1.05);
+    background: rgba(47, 47, 47, 0.53);
+    transition: transform 0.125s ease-in-out;
+}
+
+.home_page .header_container {
+    background: transparent;
+    min-height: 5vh;
+    max-height: 10vh;
+    min-width: 360px;
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: calc(10px + 2vmin);
+}

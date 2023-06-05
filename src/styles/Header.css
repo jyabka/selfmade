@@ -22,11 +22,6 @@
     background-color: transparent;
 }
 
-.header_item:hover {
-    transform: scale(1.05);
-    background: #020202;
-    transition: transform 0.125s ease-in-out;
-}
 
 .logo {
     background: url("../images/logo.svg") no-repeat;
